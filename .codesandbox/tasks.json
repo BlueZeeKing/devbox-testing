@@ -1,0 +1,8 @@
+{
+    "tasks": {
+        "run-test": {
+            "name": "Run test (Python)",
+            "command": "python3 test.py"
+        }
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "name": "APS HSPC env",
+    "image": "mcr.microsoft.com/devcontainers/base:bullseye",
+    "features": {
+        "ghcr.io/devcontainers/features/java:1": {
+            "version": "latest",
+        },
+        "ghcr.io/devcontainers/features/python:1": {
+            "version": "os-provided",
+        }
+    }
+}
